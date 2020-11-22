@@ -86,16 +86,16 @@ class Datasets extends React.Component {
   }
 
   componentDidMount() {
-    axios.get('https://open-data-portal.s3.us-east-2.amazonaws.com/metadata.json')
+    axios.get('https://ucopendata.s3.us-east-2.amazonaws.com/metadata.json')
       .then(result => {
         this.setState({
           isLoaded: true,
           items: result.data,
           filteredItems: result.data,
         });
-        //console.log(result.data)
       },
         (error) => {
+					console.log(error)
           this.setState({
             isLoaded: true,
             error

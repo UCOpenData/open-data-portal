@@ -3,7 +3,7 @@ import headshot1 from './headshot1.jpg';
 import headshot2 from './headshot2.jpg';
 import headshot3 from './headshot3.jpg';
 import headshot4 from './headshot4.png';
-import headshot5 from './headshot5.png';
+import headshot5 from './headshot5.jpg';
 import headshot6 from './headshot6.png';
 import headshot7 from './headshot7.png';
 import headshot8 from './headshot8.jpeg';

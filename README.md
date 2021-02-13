@@ -130,7 +130,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-- run `netlify deploy --open` to deploy to Netlify
+- run `npm run build` to compile build files 
+- run `netlify deploy --open` to check the preview
+- run `netlify deploy --prod` to deploy to production
 
 ### `npm run build` fails to minify
 

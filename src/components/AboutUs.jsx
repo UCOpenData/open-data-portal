@@ -12,7 +12,7 @@ import headshot9 from './headshot9.png';
 const AboutUs = () => (
   <div className="container">
     <h2>About Us</h2>
-    <p>UC Open Data is working to make UChicago's data more accessible  and transparent. Our Open Data Portal allows anyone to find and analyze UChicago-related data, such as data on university finances, student life, and academics.</p>
+    <p>UC Open Data is working to make UChicago's data more accessible  and transparent. Our Open Data Portal allows anyone to find and analyze UChicago-related data, such as data on university finances, student life, and academics. You can see our current slate of projects <a href="https://docs.google.com/spreadsheets/d/1LIKmH4FSCg2CxtpWbpwE_DcLjoOFequRHAVSGB78SNo/edit?usp=sharing" target="_blank"> here. </a></p>
 
     <p>UC Open Data works as a part of <a href="https://www.uchicagotechteam.com/" target="_blank" rel="noopener noreferrer">UChicago TechTeam</a>, a civic tech student organization within the Institute of Politics. </p>
 

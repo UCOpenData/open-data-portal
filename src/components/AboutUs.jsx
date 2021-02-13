@@ -16,15 +16,15 @@ const AboutUs = () => (
 
     <p>UC Open Data works as a part of <a href="https://www.uchicagotechteam.com/" target="_blank" rel="noopener noreferrer">UChicago TechTeam</a>, a civic tech student organization within the Institute of Politics. </p>
 
-    <img src={headshot1} alt="Team members" style={{height: '15.1rem'}} />
-    <img src={headshot2} alt="Team members1" style={{height: '15.1rem'}} />
-    <img src={headshot3} alt="Team members2" style={{height: '15.1rem'}} />
-    <img src={headshot8} alt="Team members7" style={{height: '15.1rem'}} />
-    <img src={headshot4} alt="Team members3" style={{height: '15.1rem'}} />
-    <img src={headshot5} alt="Team members4" style={{height: '15.1rem'}} />
-    <img src={headshot6} alt="Team members5" style={{height: '15.1rem'}} />
-    <img src={headshot7} alt="Team members6" style={{height: '15.1rem'}} />
-    <img src={headshot9} alt="Team members8" style={{height: '15.1rem'}} />
+    <img src={headshot1} alt="Team members" style={{height: '10.1rem'}} />
+    <img src={headshot2} alt="Team members1" style={{height: '10.1rem'}} />
+    <img src={headshot3} alt="Team members2" style={{height: '10.1rem'}} />
+    <img src={headshot8} alt="Team members7" style={{height: '10.1rem'}} />
+    <img src={headshot4} alt="Team members3" style={{height: '10.1rem'}} />
+    <img src={headshot5} alt="Team members4" style={{height: '10.1rem'}} />  
+    <img src={headshot6} alt="Team members5" style={{height: '10.1rem'}} />
+    <img src={headshot7} alt="Team members6" style={{height: '10.1rem'}} />
+    <img src={headshot9} alt="Team members8" style={{height: '10.1rem'}} />
 
   </div>
 );
